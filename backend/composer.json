@@ -1,0 +1,7 @@
+{
+    "require": {
+        "razorpay/razorpay": "2.*",
+        "google/cloud-storage": "^1.24",
+        "sendgrid/sendgrid": "^7.9"
+    }
+}
